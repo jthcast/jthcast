@@ -4,7 +4,7 @@
 
 프론트 엔드 개발자는 디자인과 기술을 함께 다루는 만큼, 다양한 시각에서 문제를 바라보고 해결하기 위해 노력합니다.
 
-## 📙 Recent Posts
+### 📙 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
