@@ -7,4 +7,7 @@
 ### 📙 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React에 아직은 Class 형식이 필요한 이유(feat. Errorboundary)](https://jthcast.dev/posts/Why-React-still-needs-class-type-(feat.Errorboundary)/)
+- [최대공약수](https://jthcast.dev/codes/getGCD/)
+- [최소공배수](https://jthcast.dev/codes/getLCM/)
 <!-- BLOG-POST-LIST:END -->
