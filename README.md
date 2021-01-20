@@ -7,7 +7,7 @@
 ### 📙 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gatsby VS Next.js](https://jthcast.dev/posts/gatsby-versus-nextjs/)
 - [React에 아직은 Class 형식이 필요한 이유(feat. Errorboundary)](https://jthcast.dev/posts/why-react-still-needs-class-type-(feat.errorboundary)/)
 - [CSS변수를 활용하여 다크 모드 구현하기](https://jthcast.dev/posts/how-to-make-dark-mode-with-css-variables/)
-- [웹 표준과 웹 접근성을 지키기 위한 노력이 필요한 이유](https://jthcast.dev/posts/why-efforts-to-preserve-web-standards-and-web-accessibility-are-required/)
 <!-- BLOG-POST-LIST:END -->
