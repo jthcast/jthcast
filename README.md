@@ -7,7 +7,7 @@
 ### 📙 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS in JS는 무조건 더 좋을까?](https://jthcast.dev/posts/is-css-in-js-the-best/)
 - [Gatsby VS Next.js](https://jthcast.dev/posts/gatsby-versus-nextjs/)
 - [React에 아직은 Class 형식이 필요한 이유(feat. Errorboundary)](https://jthcast.dev/posts/why-react-still-needs-class-type-(feat.errorboundary)/)
-- [CSS변수를 활용하여 다크 모드 구현하기](https://jthcast.dev/posts/how-to-make-dark-mode-with-css-variables/)
 <!-- BLOG-POST-LIST:END -->
