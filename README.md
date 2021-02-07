@@ -7,7 +7,7 @@
 ### 📙 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DynamoDB를 사용하기 전에 알았으면 좋았을 것들](https://jthcast.dev/posts/things-i-wish-i-knew-before-using-dynamodb/)
 - [CSS in JS는 무조건 더 좋을까?](https://jthcast.dev/posts/is-css-in-js-the-best/)
 - [Gatsby VS Next.js](https://jthcast.dev/posts/gatsby-versus-nextjs/)
-- [React에 아직은 Class 형식이 필요한 이유(feat. Errorboundary)](https://jthcast.dev/posts/why-react-still-needs-class-type-(feat.errorboundary)/)
 <!-- BLOG-POST-LIST:END -->
