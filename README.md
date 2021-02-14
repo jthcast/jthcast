@@ -7,7 +7,7 @@
 ### 📙 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TechBlogPosts의 크롤링 성능 개선하기](https://jthcast.dev/posts/improving-the-crawl-performance-of-techblogposts/)
 - [DynamoDB를 사용하기 전에 알았으면 좋았을 것들](https://jthcast.dev/posts/things-i-wish-i-knew-before-using-dynamodb/)
 - [CSS in JS는 무조건 더 좋을까?](https://jthcast.dev/posts/is-css-in-js-the-best/)
-- [Gatsby VS Next.js](https://jthcast.dev/posts/gatsby-versus-nextjs/)
 <!-- BLOG-POST-LIST:END -->
