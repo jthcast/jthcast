@@ -7,7 +7,7 @@
 ### 📙 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DynamoDB와 ElasticSearch 함께 사용하기](https://jthcast.dev/posts/using-dynamodb-and-elasticsearch-together/)
 - [크롬과 사파리에서 겪은 크로스 브라우징 이슈](https://jthcast.dev/posts/cross-browsing-issue-in-chrome-and-safari/)
 - [TechBlogPosts의 크롤링 성능 개선하기](https://jthcast.dev/posts/improving-the-crawl-performance-of-techblogposts/)
-- [DynamoDB를 사용하기 전에 알았으면 좋았을 것들](https://jthcast.dev/posts/things-i-wish-i-knew-before-using-dynamodb/)
 <!-- BLOG-POST-LIST:END -->
