@@ -7,7 +7,7 @@
 ### 📙 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2021-04-21 오류 보고(SyntaxError Unexpected end of JSON input)](https://jthcast.dev/posts/2021-04-21-error-report/)
 - [DynamoDB와 ElasticSearch 함께 사용하기](https://jthcast.dev/posts/using-dynamodb-and-elasticsearch-together/)
 - [크롬과 사파리에서 겪은 크로스 브라우징 이슈](https://jthcast.dev/posts/cross-browsing-issue-in-chrome-and-safari/)
-- [TechBlogPosts의 크롤링 성능 개선하기](https://jthcast.dev/posts/improving-the-crawl-performance-of-techblogposts/)
 <!-- BLOG-POST-LIST:END -->
