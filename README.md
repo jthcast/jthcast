@@ -7,7 +7,7 @@
 ### 📙 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [2021-04-21 오류 보고(SyntaxError Unexpected end of JSON input)](https://jthcast.dev/posts/2021-04-21-error-report/)
+- [왜 리액트를 사용하는 걸까?](https://jthcast.dev/posts/why-use-react/)
+- [2021-04-21 오류 보고(SyntaxError Unexpected end of JSON input)](https://jthcast.dev/posts/2021-04-21-error-report copy/)
 - [DynamoDB와 ElasticSearch 함께 사용하기](https://jthcast.dev/posts/using-dynamodb-and-elasticsearch-together/)
-- [크롬과 사파리에서 겪은 크로스 브라우징 이슈](https://jthcast.dev/posts/cross-browsing-issue-in-chrome-and-safari/)
 <!-- BLOG-POST-LIST:END -->
