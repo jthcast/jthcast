@@ -7,7 +7,7 @@
 ### 📙 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WWDC 2021을 통해 미리 알아보는 사파리 15](https://jthcast.dev/posts/safari-15-previews-at-wwdc-2021/)
 - [유명한 오픈소스에 기여하게 된 썰](https://jthcast.dev/posts/the-story-that-contributed-to-the-famous-open-source/)
 - [왜 리액트를 사용하는 걸까?](https://jthcast.dev/posts/why-use-react/)
-- [2021-04-21 오류 보고(SyntaxError Unexpected end of JSON input)](https://jthcast.dev/posts/2021-04-21-error-report/)
 <!-- BLOG-POST-LIST:END -->
